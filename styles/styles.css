@@ -1,0 +1,37 @@
+body {
+	text-align: center;
+	border-top: 10px solid black;
+   	border-bottom: 10px solid black;
+   	background: rgb(198,198,198);
+}
+
+ul {
+	list-style-position: inside;
+}
+
+
+h1 {
+	color: Black
+}
+
+img {
+	border: 1px solid black
+}
+
+
+
+#first-p-tag {
+	background: gray
+}
+
+    
+
+   .uppercase-title{
+   	text-transform: uppercase;
+   }
+
+
+   hr{
+   	width: 70%;
+   }
+
